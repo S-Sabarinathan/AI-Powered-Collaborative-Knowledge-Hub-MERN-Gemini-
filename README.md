@@ -27,15 +27,14 @@ AI-Powered Collaborative Knowledge Hub (MERN + Gemini) is a full-stack web appli
 
 ## 🛠 Technology Stack
 
-| Frontend         | Backend              | Database | API Integrations                       |
-| ---------------- | -------------------- | -------- | -------------------------------------- |
-| React.js (Vite)  | Node.js / Express    | SQLite3  | Axios for API requests                 |
-| Tailwind CSS     | JWT for auth         |          | Semantic Search API                    |
-| React Router DOM | bcrypt for passwords |          | CalorieNinjas / Spoonacular (optional) |
-| React Toastify   |                      |          |                                        |
-| React Icons      |                      |          |                                        |
+**Frontend:** React.js ⚛️, TailwindCSS 🎨
 
----
+**Backend:** Node.js, Express.js 🚀
+
+**Database:** MongoDB 🍃
+
+**AI Integration:** Google Gemini API 🤖
+
 
 ## ⚡Setup Installation
 
